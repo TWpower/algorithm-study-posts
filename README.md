@@ -7,8 +7,9 @@
 
 - 2018-03-26-1.md : 백준 온라인저지 1890번
 - 2018-03-27-1.md : 백준 온라인저지 1931번
-- 2018-03-29-1.md : https://programmers.co.kr/learn/challenge_codes/153
-- 2018-03-30-1.md : https://programmers.co.kr/learn/challenge_codes/145
-- 2018-03-30-2.md : https://programmers.co.kr/learn/challenge_codes/170
-- 2018-03-31-1.md : https://programmers.co.kr/learn/challenge_codes/85
-- 2018-04-01-1.md : https://programmers.co.kr/learn/challenge_codes/144
+- 2018-03-29-1.md : https://programmers.co.kr/learn/challenge_codes/153, Level 3 멀리 뛰기
+- 2018-03-30-1.md : https://programmers.co.kr/learn/challenge_codes/145, Level 3 야근 지수
+- 2018-03-30-2.md : https://programmers.co.kr/learn/challenge_codes/170, Level 3 다음 큰 숫자
+- 2018-03-31-1.md : https://programmers.co.kr/learn/challenge_codes/85, Level 2 가장 긴 팰린드롬
+- 2018-04-01-1.md : https://programmers.co.kr/learn/challenge_codes/144, Level 3 시저 암호
+- 2018-04-02-1.md : https://programmers.co.kr/learn/challenge_codes/154, Level 4 땅따먹기 게임
