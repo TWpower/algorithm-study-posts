@@ -11,4 +11,4 @@
 - 2018-04-03-1.md : [https://programmers.co.kr/learn/challenge_codes/179,](https://programmers.co.kr/learn/challenge_codes/179,) Level 2 최솟값 만들기
 - 2018-04-06-1.md : 백준 온라인저지 13460번
 - 2018-04-07-1.md : 백준 온라인저지 14504번
-- 2018-04-08-1.md : 백준 온라인저지 14889
+- 2018-04-08-1.md : 백준 온라인저지 14889번
