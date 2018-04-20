@@ -20,5 +20,5 @@
 - 2018-04-13-1.md : 백준 온라인저지 14888번 - 연산자 끼워넣기
 - 2018-04-14-1.md : 백준 온라인저지 14502번 - 연구소
 - 2018-04-16-1.md : 매일프로그래밍 - Question 4, 정수의 회문 판별 문제
-- 2018-04-20-1.md : [https://programmers.co.kr/learn/challenge_codes/88](https://programmers.co.kr/learn/challenge_codes/88), 괄호 확인하기
+- 2018-04-20-1.md : [https://programmers.co.kr/learn/challenge_codes/88](https://programmers.co.kr/learn/challenge_codes/88), Level 2 괄호 확인하기
 
