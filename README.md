@@ -27,4 +27,4 @@
 - 2018-04-22-1.md : 백준 온라인저지 1915번 - 가장 큰 정사각형
 - 2018-04-23-1.md : [https://programmers.co.kr/learn/challenge_codes/183](https://programmers.co.kr/learn/challenge_codes/183), Level 4 공항 건설하기
 - 2018-04-23-2.md : 매일프로그래밍 - Question 5, 합을 통해서 특정 수를 만족하는 수들의 인덱스 구하기
-
+- 2018-04-29-1.md : [https://programmers.co.kr/learn/challenge_codes/14](https://programmers.co.kr/learn/challenge_codes/14), Level 2 콜라츠 추측
