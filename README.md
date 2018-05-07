@@ -29,4 +29,4 @@
 - 2018-04-23-2.md : 매일프로그래밍 - Question 5, 합을 통해서 특정 수를 만족하는 수들의 인덱스 구하기
 - 2018-04-29-1.md : [https://programmers.co.kr/learn/challenge_codes/14](https://programmers.co.kr/learn/challenge_codes/14), Level 2 콜라츠 추측
 - 2018-05-05-1.md : 백준 온라인저지 15685번 - 드래곤 커브
-- 2018-05-07-1.md : 매일프로그래밍 - Question 7, 주어진 string 에 모든 단어를 거꾸로 하시오
+- 2018-05-07-1.md : 매일프로그래밍 - Question 7, 주어진 string에 모든 단어를 거꾸로 하시오
