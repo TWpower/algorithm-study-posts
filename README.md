@@ -31,6 +31,7 @@
 - 2018-05-05-1.md : 백준 온라인저지 15685번 - 드래곤 커브
 - 2018-05-07-1.md : 매일프로그래밍 - Question 7, 주어진 string에 모든 단어를 거꾸로 하시오
 - 2018-05-12-1.md : 백준 온라인저지 1717번 - 집합의 표현
-- 2018-05-14-1.md : https://programmers.co.kr/learn/challenge_codes/160, Level 5 2 x n 타일링
+- 2018-05-14-1.md : [https://programmers.co.kr/learn/challenge_codes/160](https://programmers.co.kr/learn/challenge_codes/160), Level 5 2 x n 타일링
 - 2018-05-19-1.md : 백준 온라인저지 11047번 - 동전 0
 - 2018-05-22-1.md : 백준 온라인저지 15686번 - 치킨 배달
+- 2018-05-26-1.md : [https://programmers.co.kr/learn/courses/30/lessons/12910?language=python3](https://programmers.co.kr/learn/challenge_codes/160), Level 1 나누어 떨어지는 숫자 배열
