@@ -35,3 +35,6 @@
 - 2018-05-19-1.md : 백준 온라인저지 11047번 - 동전 0
 - 2018-05-22-1.md : 백준 온라인저지 15686번 - 치킨 배달
 - 2018-05-26-1.md : [https://programmers.co.kr/learn/courses/30/lessons/12910?language=python3](https://programmers.co.kr/learn/challenge_codes/160), Level 1 나누어 떨어지는 숫자 배열
+- 2018-06-04-1.md : [https://programmers.co.kr/learn/courses/30/lessons/12936](https://programmers.co.kr/learn/courses/30/lessons/12936), Level 3 줄 서는 방법
+
+
