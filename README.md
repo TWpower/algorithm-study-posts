@@ -29,12 +29,12 @@
 - 2018-04-23-2.md : 매일프로그래밍 - Question 5, 합을 통해서 특정 수를 만족하는 수들의 인덱스 구하기
 - 2018-04-29-1.md : [https://programmers.co.kr/learn/challenge_codes/14](https://programmers.co.kr/learn/challenge_codes/14), Level 2 콜라츠 추측
 - 2018-05-05-1.md : 백준 온라인저지 15685번 - 드래곤 커브
-- 2018-05-07-1.md : 매일프로그래밍 - Question 7, 주어진 string에 모든 단어를 거꾸로 하시오
+- 2018-05-07-1.md : 매일프로그래밍 - 실리콘밸리 패키지 문제 7, 주어진 string에 모든 단어를 거꾸로 하시오
 - 2018-05-12-1.md : 백준 온라인저지 1717번 - 집합의 표현
 - 2018-05-14-1.md : [https://programmers.co.kr/learn/challenge_codes/160](https://programmers.co.kr/learn/challenge_codes/160), Level 5 2 x n 타일링
 - 2018-05-19-1.md : 백준 온라인저지 11047번 - 동전 0
 - 2018-05-22-1.md : 백준 온라인저지 15686번 - 치킨 배달
 - 2018-05-26-1.md : [https://programmers.co.kr/learn/courses/30/lessons/12910?language=python3](https://programmers.co.kr/learn/challenge_codes/160), Level 1 나누어 떨어지는 숫자 배열
 - 2018-06-04-1.md : [https://programmers.co.kr/learn/courses/30/lessons/12936](https://programmers.co.kr/learn/courses/30/lessons/12936), Level 3 줄 서는 방법
-
+- 2018-06-04-2.md : 매일프로그래밍 - 실리콘밸리 패키지 문제 12, 각 원소가 자신을 뺀 나머지 원소들의 곱셈이 되게하라.
 
