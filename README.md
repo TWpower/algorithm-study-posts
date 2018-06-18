@@ -37,4 +37,4 @@
 - 2018-05-26-1.md : [https://programmers.co.kr/learn/courses/30/lessons/12910?language=python3](https://programmers.co.kr/learn/challenge_codes/160), Level 1 나누어 떨어지는 숫자 배열
 - 2018-06-04-1.md : [https://programmers.co.kr/learn/courses/30/lessons/12936](https://programmers.co.kr/learn/courses/30/lessons/12936), Level 3 줄 서는 방법
 - 2018-06-04-2.md : 매일프로그래밍 - 실리콘밸리 패키지 문제 12, 각 원소가 자신을 뺀 나머지 원소들의 곱셈이 되게하라.
-
+- 2018-06-18-1.md : 매일프로그래밍 - 실리콘밸리 패키지 문제 13, 정수 배열(int array)과 정수 N이 주어지면, N번째로 큰 배열 원소를 찾으시오.
