@@ -39,3 +39,4 @@
 - 2018-06-04-2.md : 매일프로그래밍 - 실리콘밸리 패키지 문제 12, 각 원소가 자신을 뺀 나머지 원소들의 곱셈이 되게하라.
 - 2018-06-18-1.md : 매일프로그래밍 - 실리콘밸리 패키지 문제 13, 정수 배열(int array)과 정수 N이 주어지면, N번째로 큰 배열 원소를 찾으시오.
 - 2021-02-14-1.md : LeetCode - [https://leetcode.com/problems/reverse-integer/](https://leetcode.com/problems/reverse-integer/)
+- 2021-02-14-2.md : LeetCode - [https://leetcode.com/problems/palindrome-number/](https://leetcode.com/problems/palindrome-number/)
